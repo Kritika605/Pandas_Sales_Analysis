@@ -1,5 +1,5 @@
-# Pandas-Data-Science-Tasks
-Set of real world data science tasks completed using the Python Pandas library.
+# Pandas-Data-Analysis-Tasks
+Set of real world data analysis tasks completed using the Python Pandas library.
 
 ## Background Information:
 
